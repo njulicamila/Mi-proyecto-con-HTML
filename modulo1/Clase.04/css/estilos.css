@@ -1,0 +1,21 @@
+#verde , #rojo , #azul , #amarillo 
+{
+ height: 120px;
+ width: 250px;
+}
+
+#verde{
+background-color: green;
+}
+
+#rojo{
+ background-color: crimson;
+}
+
+#azul{
+  background-color: blue;
+}
+
+#amarillo{
+  background-color: gold;
+}
